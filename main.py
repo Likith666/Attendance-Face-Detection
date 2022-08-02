@@ -1,4 +1,3 @@
-import cv2
+import pandas
 import numpy
-import face_recognition
 
